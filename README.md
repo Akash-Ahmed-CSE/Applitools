@@ -24,6 +24,10 @@ The automation test performs the following:
 - TestNG
 - Page Object Model (POM) design pattern
 
+https://github.com/user-attachments/assets/88440c8f-cf86-411f-b6ba-903873713cf8
+
+
+
 
 
 
